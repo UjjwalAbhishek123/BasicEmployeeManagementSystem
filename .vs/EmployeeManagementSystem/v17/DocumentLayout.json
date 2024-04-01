@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C# Examples\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|g:\\c# examples\\employeemanagementsystem\\employeemanagementsystem\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\content\\example.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\content\\example.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|g:\\c# examples\\employeemanagementsystem\\employeemanagementsystem\\content\\inputfield.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\content\\inputfield.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|g:\\c# examples\\employeemanagementsystem\\employeemanagementsystem\\content\\example2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\content\\example2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\account\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\account\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\views\\account\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\account\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|G:\\C# Examples\\EmployeeManagementSystem\\employeemanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7866F2D6-044F-49D9-9C68-F8A99F5AB814}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 294,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputField.css",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Content\\InputField.css",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Content\\InputField.css",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Content\\InputField.css",
+              "RelativeToolTip": "EmployeeManagementSystem\\Content\\InputField.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-01T08:18:42.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Example2.css",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Content\\Example2.css",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Content\\Example2.css",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Content\\Example2.css",
+              "RelativeToolTip": "EmployeeManagementSystem\\Content\\Example2.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-01T08:18:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.css",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Content\\Site.css",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Content\\Site.css",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Content\\Site.css",
+              "RelativeToolTip": "EmployeeManagementSystem\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-01T08:09:15.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Employee.cs",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Employee.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:56:28.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\User.cs",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\User.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:23:48.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "example.css",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Content\\example.css",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Content\\example.css",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Content\\example.css",
+              "RelativeToolTip": "EmployeeManagementSystem\\Content\\example.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-01T05:56:27.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\Signup.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Account\\Signup.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\Signup.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Account\\Signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T06:01:38.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T06:01:03.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T05:56:30.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Department.cs",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Department.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Department.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:22:06.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Model1.Context.cs",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Model1.Context.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Model1.Context.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwB0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:12:00.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Global.asax.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Global.asax.cs",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Global.asax.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Global.asax.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:56:47.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwDIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:56:28.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T06:01:33.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Web.config",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Web.config",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-01T07:12:50.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAUwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T05:56:28.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAUwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T06:24:17.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T06:24:21.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAUwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T05:56:28.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T06:00:42.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwCUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T06:01:46.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\Contact.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Account\\Contact.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\Contact.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Account\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T06:01:50.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\About.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Account\\About.cshtml",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\About.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Account\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T06:01:54.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Membership.cs",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Membership.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\Membership.cs",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Membership.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Models\\Membership.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:02:02.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAADwv7sAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:05:55.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Web.config",
+              "DocumentMoniker": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Web.config",
+              "ToolTip": "G:\\C# Examples\\EmployeeManagementSystem\\EmployeeManagementSystem\\Web.config",
+              "RelativeToolTip": "EmployeeManagementSystem\\Web.config",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwEEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-01T06:31:35.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

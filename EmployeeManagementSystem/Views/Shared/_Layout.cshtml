@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/example.css" rel="stylesheet" />
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="#" class="navbar-brand">
+                    <!-- Logo Image -->
+                    <img src="~/Content/Images/MphasisLogo.jpeg" alt="Logo" class="img-responsive">
+                    <!-- Logo Text -->
+                    <span>@Html.ActionLink("Employee Management System", "Index", "Employees", new { area = "" }, new { @class = "navbar-brand" })</span>
+                </a>
+                @*@Html.ActionLink("Employee Management System", "Index", "Employees", new { area = "" }, new { @class = "navbar-brand" })*@
+                @*<ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("About", "About", "Account")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Account")</li>
+                    </ul>*@
+
+            </div>
+            <div class="collapse navbar-collapse">
+                @*<ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Get List", "Index", "Employees")</li>
+                        <li>@Html.ActionLink("Create", "Create", "Employees")</li>
+                    </ul>*@
+                <ul class="nav navbar-nav" style="float:right !important">
+                    <li>@Html.ActionLink("About", "About", "Account")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Account")</li>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li><a>Welcome - @User.Identity.Name</a></li>
+                        <li onclick="return confirm('Are you sure you want to Logout?');">@Html.ActionLink("Logout", "Logout", "Account")</li>
+                    }
+                    else
+                    {
+                        <li>@Html.ActionLink("Signup", "Signup", "Account")</li>
+                        <li>@Html.ActionLink("Login", "Login", "Account")</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

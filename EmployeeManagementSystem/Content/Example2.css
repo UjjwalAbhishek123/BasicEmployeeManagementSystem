@@ -1,0 +1,9 @@
+﻿body {
+}
+
+td a{
+    color: black;
+}
+td a:hover{
+    text-decoration: none;
+}
